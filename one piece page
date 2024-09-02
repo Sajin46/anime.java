@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> best romontic anime </title>
+        <link rel="stylesheet" href ="index.css">
+
+    </head> 
+     <body>
+        <h1 class=center  > the onePiece</h1>
+        <p>the best anime of all time is one piece ,and you know what it consists of thousands of episode and more thousands[
+            hundred of characters in onepiece
+        </p>
+        <h2>here some picture about the one piece</h2>
+        <img   src="https://th.bing.com/th?id=OIP.9NHnIpfm9rHRTVlDULTmzAHaF7&w=279&h=223&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2" alt="onepiece image ">
+       <p > here you can watch anime in chrome  <a href="https://hianime.to/" >click here</a> </p>
+      <!-- <pre style="font-size:15px">
+here some of the mein characters in the onepiece in some of the episode 
+    shortlisted by the adm rating .
+   1. Monkey D. Luffy  
+   2. Roronoa Zoro  
+   3. Nami  
+   4. Usopp
+ </pre> -->
+      <p> here some of the eins  characters in the onepiece in some of the episode 
+        shortlisted by the adm rating .</p>
+       <ol>
+        <li> luffy</li>
+        <li>sanji</li>
+        <li>zoro</li>
+        <li>usoop</li>
+     </ol>
+     <p> here some of the mein characters in the onepiece in some of the episode 
+        shortlisted by the adm rating .</p>
+        
+        <h2> here some example of amazing romaantic animes</h2>
+         <p class="box"> your name</p>
+         <P class="box">silent voice</P>
+         <p class ="box">hello world</p>
+<a href ="https://www.w3schools.com/" target="_blank"> touch to ai</a>
+       </body>
+    </html>
